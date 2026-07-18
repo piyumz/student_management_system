@@ -11,8 +11,8 @@ Before running the project, make sure you have:
 ### 1. Clone the Repository (Optional)
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
-cd student-management-system
+git clone https://github.com/piyumz/student_management_system.git
+cd student_management_system
 ```
 
 Or download the project as a ZIP file and extract it.
